@@ -16,6 +16,5 @@
 "config.Item4type.description": "For picking what items needed for crafting. All Itemtypes need a whole number value relating to an object id.",
 "config.Item4Amount.description": "For choosing how much of an item you need for crafting. All ItemAmounts need a non-zero value",
 "mushbox": "버섯 상자",
-"demebats": "Dear @^It occurs to me that you might be able to fit the mushroom boxes elsewhere, as long as it's dark and damp. Here's a recipe for them. ^ -Demetrius %item craftingRecipe Mushroom Box %%[#]Mushroom Box Recipe",
-"demeshrooms": "Dear @^It occurs to me that you might be able to fit more mushroom boxes in that cave. Here's a recipe for them. ^ -Demetrius %item craftingRecipe Mushroom Box %%[#]Mushroom Box Recipe"
-}
+"demebats": "Dear @,^It occurs to me that you might be able to fit the mushroom boxes elsewhere, as long as it's dark and damp.^Here's a recipe for them. ^ -Demetrius%item craftingRecipe Mushroom_Box %%[#]Mushroom Box Recipe",
+"demeshrooms": "Dear @,^It occurs to me that you might be able to fit more mushroom boxes in that cave.^Here's a recipe for them. ^ -Demetrius%item craftingRecipe Mushroom_Box %%[#]Mushroom Box Recipe"}

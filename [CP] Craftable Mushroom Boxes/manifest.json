@@ -5,9 +5,9 @@
    "Description": "Lets you make mushroom boxes.",
    "UniqueID": "foggy.makemushbox",
    "MinimumApiVersion": "2.6",
-   "UpdateKeys": [ "Nexus:2899" ],
+   "UpdateKeys": [ "Nexus:10296" ],
    "ContentPackFor": {
       "UniqueID": "Pathoschild.ContentPatcher",
-      "MinimumVersion": "2.4.0"
+      "MinimumVersion": "1.24.0"
    }
 }

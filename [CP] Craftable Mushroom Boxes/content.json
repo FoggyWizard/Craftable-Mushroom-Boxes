@@ -1,5 +1,5 @@
 {
-	"Format": "2.24.0",
+	"Format": "1.24.0",
 	"ConfigSchema": {
 		"Item1type": { "Default": "709", "Description": "All Itemtypes need a whole number value relating to an object id. All ItemAmounts need a non-zero value"  },
 		"Item1Amount": { "Default": "10"  },

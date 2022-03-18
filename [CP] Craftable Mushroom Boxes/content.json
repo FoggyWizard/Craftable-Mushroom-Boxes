@@ -21,13 +21,13 @@
 		{
 		"Action": "EditData",
 		"Target": "Data/Events/Farm",
-		"Entries":  { "9925530/f Demetrius 750/m 40000/e 65/x demetriboxBats true": "null"	},
+		"Entries":  { "9925530/f Demetrius 750/m 40000/x demetriboxBats true": "null"	},
 		"When": {"FarmCave": "Bats" },
 		},
 		{
 		"Action": "EditData",
 		"Target": "Data/Events/Farm",
-		"Entries":  { "9925530/f Demetrius 750/m 40000/e 65/x demetriboxMushrooms true": "null"	},
+		"Entries":  { "9925530/f Demetrius 750/m 40000/x demetriboxMushrooms true": "null"	},
 		"When": {"FarmCave": "Mushrooms" },
 		},
 		{

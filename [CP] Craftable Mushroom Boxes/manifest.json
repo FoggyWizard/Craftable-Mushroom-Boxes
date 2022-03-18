@@ -1,7 +1,7 @@
 {
    "Name": "Craftable Mushroom Boxes",
    "Author": "foggywizard",
-   "Version": "1.6.0",
+   "Version": "1.6.1",
    "Description": "Lets you make mushroom boxes.",
    "UniqueID": "foggy.makemushbox",
    "MinimumApiVersion": "2.6",
